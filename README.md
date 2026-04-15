@@ -40,7 +40,7 @@ Run the deployment script:
 
 ## 📡 Future Improvements
 
-* Auto-detect board type (ESP32 / ESP32-C3)
+* Auto-detect board type (ESP32)
 * Multi-device flashing
 * WiFi-based deployment
 
