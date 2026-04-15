@@ -46,5 +46,3 @@ Run the deployment script:
 
 ---
 
-Made with MicroPython ⚡
-
